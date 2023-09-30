@@ -9,6 +9,4 @@
 
     echo "Ingresa tu edad: \n";
     $years = readline();
-
-
 ?>  
